@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Oldr</string>
+    <string name="android_s_warning">Android 12 requires manual association of Reddit domains with the app.\n\nPlease proceed to Settings and select them manually.</string>
+</resources>
