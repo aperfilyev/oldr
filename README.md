@@ -1,6 +1,6 @@
 # Oldr
 
-Android app that will help you redirect to old.reddit.com
+Android app that will help you redirect to old.reddit.com inside your browser
 
 
 ## Demo
