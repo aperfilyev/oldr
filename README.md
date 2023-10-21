@@ -5,7 +5,8 @@ Android app that will help you redirect to old.reddit.com
 
 ## Demo
 
-https://github.com/aperfilyev/oldr/assets/14963604/fbd348c2-b5be-4eee-8d34-ab74a895a1ff
+
+https://github.com/aperfilyev/oldr/assets/14963604/2d55786c-6e5f-45de-95d4-ac3e216e4605
 
 
 ## Download
